@@ -1,0 +1,97 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON D600"
+   tiff:Orientation="1"
+   tiff:ImageWidth="6016"
+   tiff:ImageLength="4016"
+   exif:ExifVersion="0221"
+   exif:ExposureTime="1/80"
+   exif:ShutterSpeedValue="6321928/1000000"
+   exif:FNumber="14/10"
+   exif:ApertureValue="970854/1000000"
+   exif:ExposureProgram="1"
+   exif:SensitivityType="2"
+   exif:ExposureBiasValue="0/6"
+   exif:MaxApertureValue="10/10"
+   exif:MeteringMode="5"
+   exif:LightSource="0"
+   exif:FocalLength="350/10"
+   exif:SensingMethod="2"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="35"
+   exif:CustomRendered="0"
+   exif:ExposureMode="1"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:GainControl="2"
+   exif:Contrast="0"
+   exif:Saturation="0"
+   exif:Sharpness="1"
+   exif:SubjectDistanceRange="0"
+   exif:DigitalZoomRatio="1/1"
+   exif:FocalPlaneXResolution="54886891/32768"
+   exif:FocalPlaneYResolution="54886891/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2016-11-12T22:11:31.20"
+   exif:PixelXDimension="6016"
+   exif:PixelYDimension="4016"
+   dc:format="image/x-nikon-nef"
+   xmp:CreatorTool="Ver.1.02"
+   xmp:ModifyDate="2016-11-12T22:11:31.20"
+   xmp:CreateDate="2016-11-12T22:11:31.20"
+   xmp:Rating="1"
+   xmp:MetadataDate="2016-11-18T14:53:26+01:00"
+   aux:SerialNumber="6002809"
+   aux:LensInfo="350/10 350/10 14/10 14/10"
+   aux:Lens="35.0 mm f/1.4"
+   aux:LensID="145"
+   aux:ImageNumber="73898"
+   aux:ApproximateFocusDistance="4294967295/1"
+   photoshop:DateCreated="2016-11-12T22:11:31.20"
+   photoshop:SidecarForExtension="NEF"
+   photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
+   xmpMM:DocumentID="8C100DA413B2C72A33BE6784F1D34F28"
+   xmpMM:OriginalDocumentID="8C100DA413B2C72A33BE6784F1D34F28"
+   xmpMM:InstanceID="xmp.iid:4c326a93-aaf6-4567-844a-7adcfe65dc46"
+   crs:RawFileName="DSC_4661.NEF">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>1600</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Martijn Courteaux</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:4c326a93-aaf6-4567-844a-7adcfe65dc46"
+      stEvt:when="2016-11-18T14:53:26+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T21:54:06.60"
    xmp:CreateDate="2016-11-12T21:54:06.60"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-19T17:32:21+01:00"
+   xmp:MetadataDate="2016-11-20T00:32:40+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,7 +64,7 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="8C38874ADF25C10D4E522AAC808C03BC"
    xmpMM:OriginalDocumentID="8C38874ADF25C10D4E522AAC808C03BC"
-   xmpMM:InstanceID="xmp.iid:549d342e-971f-bd41-bcb0-991020569819"
+   xmpMM:InstanceID="xmp.iid:bfce7987-f7cb-5747-b6c8-3d0dfb769c15"
    crs:Version="9.1.1"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
@@ -183,6 +183,11 @@
      <rdf:li>Martijn Courteaux</rdf:li>
     </rdf:Seq>
    </dc:creator>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Door Martijn Courteaux.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
    <xmpMM:History>
     <rdf:Seq>
      <rdf:li
@@ -193,8 +198,8 @@
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:549d342e-971f-bd41-bcb0-991020569819"
-      stEvt:when="2016-11-19T17:32:21+01:00"
+      stEvt:instanceID="xmp.iid:bfce7987-f7cb-5747-b6c8-3d0dfb769c15"
+      stEvt:when="2016-11-20T00:32:40+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

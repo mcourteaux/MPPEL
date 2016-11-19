@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-13T02:53:33.00"
    xmp:CreateDate="2016-11-13T02:53:33.00"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-20T00:11:09+01:00"
+   xmp:MetadataDate="2016-11-20T00:33:14+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,8 +64,8 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="1F96B46022DBB4CFA40C53E4391D04A2"
    xmpMM:OriginalDocumentID="1F96B46022DBB4CFA40C53E4391D04A2"
-   xmpMM:InstanceID="xmp.iid:5b12945d-bcc5-4642-8803-033fc808c1d4"
-   crs:Version="9.0"
+   xmpMM:InstanceID="xmp.iid:84d1a5ca-c95b-7649-bf16-d2a37d86de8c"
+   crs:Version="9.1.1"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
@@ -138,7 +138,7 @@
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
-   crs:Exposure2012="0.00"
+   crs:Exposure2012="+0.31"
    crs:Contrast2012="+65"
    crs:Highlights2012="+11"
    crs:Shadows2012="-5"
@@ -151,6 +151,8 @@
    crs:DefringeGreenAmount="0"
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Custom"
@@ -176,6 +178,11 @@
      <rdf:li>Martijn Courteaux</rdf:li>
     </rdf:Seq>
    </dc:creator>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Door Martijn Courteaux.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
    <xmpMM:History>
     <rdf:Seq>
      <rdf:li
@@ -186,9 +193,9 @@
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:5b12945d-bcc5-4642-8803-033fc808c1d4"
-      stEvt:when="2016-11-20T00:11:09+01:00"
-      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:instanceID="xmp.iid:84d1a5ca-c95b-7649-bf16-d2a37d86de8c"
+      stEvt:when="2016-11-20T00:33:14+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

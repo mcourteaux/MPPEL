@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T19:51:15.90"
    xmp:CreateDate="2016-11-12T19:51:15.90"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-18T20:45:33+01:00"
+   xmp:MetadataDate="2016-11-19T15:59:54+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,7 +64,77 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="16461FE8A87B15B6C3363FF5D13063D1"
    xmpMM:OriginalDocumentID="16461FE8A87B15B6C3363FF5D13063D1"
-   xmpMM:InstanceID="xmp.iid:c08cd517-88bd-4a6b-bf6e-8aa878ee0659"
+   xmpMM:InstanceID="xmp.iid:3fe5db81-14b0-c24c-9d72-dfaca081c3a8"
+   crs:Version="9.1.1"
+   crs:ProcessVersion="6.7"
+   crs:WhiteBalance="Custom"
+   crs:AutoWhiteVersion="134348800"
+   crs:Temperature="2000"
+   crs:Tint="+13"
+   crs:Sharpness="106"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="-10"
+   crs:GreenSaturation="-13"
+   crs:BlueHue="-19"
+   crs:BlueSaturation="0"
+   crs:GrayMixerRed="-6"
+   crs:GrayMixerOrange="-17"
+   crs:GrayMixerYellow="-21"
+   crs:GrayMixerGreen="-26"
+   crs:GrayMixerAqua="-19"
+   crs:GrayMixerBlue="+9"
+   crs:GrayMixerPurple="+16"
+   crs:GrayMixerMagenta="+6"
+   crs:SplitToningShadowHue="39"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="55"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.2"
+   crs:SharpenDetail="8"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:LensProfileEnable="0"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:PerspectiveAspect="0"
+   crs:PerspectiveUpright="0"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+0.23"
+   crs:Contrast2012="+20"
+   crs:Highlights2012="-28"
+   crs:Shadows2012="-18"
+   crs:Whites2012="-4"
+   crs:Blacks2012="+15"
+   crs:Clarity2012="+22"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
+   crs:ConvertToGrayscale="True"
+   crs:ToneCurveName="Medium Contrast"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:CameraProfileDigest="51B4314CF8312BA027EF3FC60481FB35"
+   crs:LensProfileSetup="LensDefaults"
+   crs:HasSettings="True"
+   crs:AlreadyApplied="False"
    crs:RawFileName="DSC_4387.NEF">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -90,8 +160,69 @@
       stEvt:when="2016-11-18T20:45:33+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:3fe5db81-14b0-c24c-9d72-dfaca081c3a8"
+      stEvt:when="2016-11-19T15:59:54+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>19, 18</rdf:li>
+     <rdf:li>40, 65</rdf:li>
+     <rdf:li>105, 175</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

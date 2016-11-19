@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T21:19:14.90"
    xmp:CreateDate="2016-11-12T21:19:14.90"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-18T20:45:39+01:00"
+   xmp:MetadataDate="2016-11-19T16:58:41+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,8 +64,8 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="3F230B51E44647DC70BE2A2B222F7164"
    xmpMM:OriginalDocumentID="3F230B51E44647DC70BE2A2B222F7164"
-   xmpMM:InstanceID="xmp.iid:6501fb64-f979-4a65-9357-3ed0d56a0a24"
-   crs:Version="9.0"
+   xmpMM:InstanceID="xmp.iid:ea848620-7392-e540-86f2-f09313d9158f"
+   crs:Version="9.1.1"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
@@ -126,12 +126,14 @@
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
    crs:Exposure2012="+1.25"
-   crs:Contrast2012="+66"
+   crs:Contrast2012="+41"
    crs:Highlights2012="+6"
    crs:Shadows2012="+91"
    crs:Whites2012="-15"
    crs:Blacks2012="-12"
    crs:Clarity2012="-6"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
    crs:ConvertToGrayscale="True"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Custom"
@@ -164,6 +166,12 @@
       stEvt:instanceID="xmp.iid:6501fb64-f979-4a65-9357-3ed0d56a0a24"
       stEvt:when="2016-11-18T20:45:39+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:ea848620-7392-e540-86f2-f09313d9158f"
+      stEvt:when="2016-11-19T16:58:41+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

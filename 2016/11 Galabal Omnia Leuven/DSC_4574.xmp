@@ -51,8 +51,7 @@
    xmp:CreatorTool="Ver.1.02"
    xmp:ModifyDate="2016-11-12T21:26:17.40"
    xmp:CreateDate="2016-11-12T21:26:17.40"
-   xmp:Rating="1"
-   xmp:MetadataDate="2016-11-18T20:45:39+01:00"
+   xmp:MetadataDate="2016-11-19T17:01:33+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,7 +63,7 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="4B9B49D468EBB7495ECDAAF0D6BF4339"
    xmpMM:OriginalDocumentID="4B9B49D468EBB7495ECDAAF0D6BF4339"
-   xmpMM:InstanceID="xmp.iid:af82028a-0e1d-44d5-9e2c-e162275a2071"
+   xmpMM:InstanceID="xmp.iid:0a29f2b1-0012-5c44-86ed-8a76b7334e3e"
    crs:RawFileName="DSC_4574.NEF">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -89,6 +88,12 @@
       stEvt:instanceID="xmp.iid:af82028a-0e1d-44d5-9e2c-e162275a2071"
       stEvt:when="2016-11-18T20:45:39+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:0a29f2b1-0012-5c44-86ed-8a76b7334e3e"
+      stEvt:when="2016-11-19T17:01:33+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

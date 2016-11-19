@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T22:47:54.80"
    xmp:CreateDate="2016-11-12T22:47:54.80"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-18T20:45:45+01:00"
+   xmp:MetadataDate="2016-11-19T18:08:36+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="350/10 350/10 14/10 14/10"
    aux:Lens="35.0 mm f/1.4"
@@ -64,7 +64,108 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="2E95B057F7C194EF6F477CF4729F0E5B"
    xmpMM:OriginalDocumentID="2E95B057F7C194EF6F477CF4729F0E5B"
-   xmpMM:InstanceID="xmp.iid:b3db5d72-3e75-40cc-91c4-62ff9ac36abd"
+   xmpMM:InstanceID="xmp.iid:597c2e85-0357-e24a-aab2-f1e8e7187333"
+   crs:Version="9.1.1"
+   crs:ProcessVersion="6.7"
+   crs:WhiteBalance="Custom"
+   crs:AutoWhiteVersion="134348800"
+   crs:Temperature="2784"
+   crs:Tint="-44"
+   crs:Saturation="-7"
+   crs:Sharpness="123"
+   crs:LuminanceSmoothing="15"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="+15"
+   crs:RedSaturation="0"
+   crs:GreenHue="+3"
+   crs:GreenSaturation="-13"
+   crs:BlueHue="-22"
+   crs:BlueSaturation="0"
+   crs:Vibrance="+29"
+   crs:HueAdjustmentRed="+33"
+   crs:HueAdjustmentOrange="+1"
+   crs:HueAdjustmentYellow="-29"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="+14"
+   crs:HueAdjustmentBlue="+9"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="+39"
+   crs:SaturationAdjustmentRed="+21"
+   crs:SaturationAdjustmentOrange="+37"
+   crs:SaturationAdjustmentYellow="0"
+   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentAqua="0"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="0"
+   crs:SaturationAdjustmentMagenta="0"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="+4"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="39"
+   crs:SplitToningShadowSaturation="13"
+   crs:SplitToningHighlightHue="45"
+   crs:SplitToningHighlightSaturation="11"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.3"
+   crs:SharpenDetail="28"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-11"
+   crs:PostCropVignetteMidpoint="20"
+   crs:PostCropVignetteFeather="70"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:GrainAmount="0"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:ColorNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:LensProfileEnable="0"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:PerspectiveAspect="0"
+   crs:PerspectiveUpright="0"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+0.16"
+   crs:Contrast2012="+29"
+   crs:Highlights2012="+10"
+   crs:Shadows2012="-3"
+   crs:Whites2012="-11"
+   crs:Blacks2012="+13"
+   crs:Clarity2012="-6"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName="Medium Contrast"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:CameraProfileDigest="51B4314CF8312BA027EF3FC60481FB35"
+   crs:LensProfileSetup="LensDefaults"
+   crs:HasSettings="True"
+   crs:AlreadyApplied="False"
    crs:RawFileName="DSC_4717.NEF">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -90,8 +191,69 @@
       stEvt:when="2016-11-18T20:45:45+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:597c2e85-0357-e24a-aab2-f1e8e7187333"
+      stEvt:when="2016-11-19T18:08:36+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>15, 11</rdf:li>
+     <rdf:li>39, 47</rdf:li>
+     <rdf:li>102, 145</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

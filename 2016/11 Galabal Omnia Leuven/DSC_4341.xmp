@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T19:29:12.70"
    xmp:CreateDate="2016-11-12T19:29:12.70"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-19T14:31:03+01:00"
+   xmp:MetadataDate="2016-11-19T15:53:19+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="140/10 140/10 28/10 14/10"
    aux:Lens="14.0 mm f/2.8"
@@ -64,8 +64,8 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="3D3F91DC1E8E3B5BB7D3FC4BBD8A1CDC"
    xmpMM:OriginalDocumentID="3D3F91DC1E8E3B5BB7D3FC4BBD8A1CDC"
-   xmpMM:InstanceID="xmp.iid:98855ddc-ce70-4474-8e39-2919070d0107"
-   crs:Version="9.0"
+   xmpMM:InstanceID="xmp.iid:2b29933f-08b9-774d-8b06-617d1e04a8eb"
+   crs:Version="9.1.1"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
@@ -141,8 +141,8 @@
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
-   crs:Exposure2012="+1.35"
-   crs:Contrast2012="+7"
+   crs:Exposure2012="+1.14"
+   crs:Contrast2012="+41"
    crs:Highlights2012="+34"
    crs:Shadows2012="+8"
    crs:Whites2012="-44"
@@ -154,6 +154,8 @@
    crs:DefringeGreenAmount="0"
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Custom"
@@ -194,6 +196,12 @@
       stEvt:when="2016-11-19T14:31:03+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:2b29933f-08b9-774d-8b06-617d1e04a8eb"
+      stEvt:when="2016-11-19T15:53:19+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
    <crs:ToneCurve>
@@ -227,6 +235,7 @@
    <crs:ToneCurvePV2012>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
+     <rdf:li>28, 29</rdf:li>
      <rdf:li>39, 47</rdf:li>
      <rdf:li>77, 99</rdf:li>
      <rdf:li>255, 255</rdf:li>

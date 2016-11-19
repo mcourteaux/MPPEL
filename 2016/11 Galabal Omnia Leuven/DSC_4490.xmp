@@ -52,7 +52,7 @@
    xmp:ModifyDate="2016-11-12T20:57:21.80"
    xmp:CreateDate="2016-11-12T20:57:21.80"
    xmp:Rating="1"
-   xmp:MetadataDate="2016-11-18T20:45:36+01:00"
+   xmp:MetadataDate="2016-11-19T16:13:39+01:00"
    aux:SerialNumber="6002809"
    aux:LensInfo="500/10 500/10 14/10 14/10"
    aux:Lens="50.0 mm f/1.4"
@@ -64,13 +64,13 @@
    photoshop:EmbeddedXMPDigest="2AD1AC5BA3E424E6C7C1B8C3F9C2974A"
    xmpMM:DocumentID="57E20F693DF38A63832FD673BBC74CB1"
    xmpMM:OriginalDocumentID="57E20F693DF38A63832FD673BBC74CB1"
-   xmpMM:InstanceID="xmp.iid:b1d0f91b-1363-4956-8770-690fe77cc933"
-   crs:Version="9.0"
+   xmpMM:InstanceID="xmp.iid:6ddea946-e092-7e45-9cd9-bcd1e36bcbe8"
+   crs:Version="9.1.1"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
-   crs:Temperature="3369"
-   crs:Tint="-8"
+   crs:Temperature="3046"
+   crs:Tint="-25"
    crs:Saturation="-7"
    crs:Sharpness="96"
    crs:LuminanceSmoothing="0"
@@ -83,17 +83,17 @@
    crs:GreenSaturation="-13"
    crs:BlueHue="-22"
    crs:BlueSaturation="0"
-   crs:Vibrance="+29"
-   crs:HueAdjustmentRed="+33"
-   crs:HueAdjustmentOrange="+1"
-   crs:HueAdjustmentYellow="-3"
-   crs:HueAdjustmentGreen="0"
-   crs:HueAdjustmentAqua="0"
-   crs:HueAdjustmentBlue="0"
+   crs:Vibrance="+33"
+   crs:HueAdjustmentRed="+14"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="-5"
+   crs:HueAdjustmentGreen="-4"
+   crs:HueAdjustmentAqua="+100"
+   crs:HueAdjustmentBlue="-8"
    crs:HueAdjustmentPurple="0"
-   crs:HueAdjustmentMagenta="+39"
+   crs:HueAdjustmentMagenta="+40"
    crs:SaturationAdjustmentRed="+21"
-   crs:SaturationAdjustmentOrange="+37"
+   crs:SaturationAdjustmentOrange="+14"
    crs:SaturationAdjustmentYellow="0"
    crs:SaturationAdjustmentGreen="0"
    crs:SaturationAdjustmentAqua="0"
@@ -101,7 +101,7 @@
    crs:SaturationAdjustmentPurple="0"
    crs:SaturationAdjustmentMagenta="0"
    crs:LuminanceAdjustmentRed="0"
-   crs:LuminanceAdjustmentOrange="+4"
+   crs:LuminanceAdjustmentOrange="0"
    crs:LuminanceAdjustmentYellow="0"
    crs:LuminanceAdjustmentGreen="0"
    crs:LuminanceAdjustmentAqua="0"
@@ -120,8 +120,8 @@
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
-   crs:SharpenRadius="+1.1"
-   crs:SharpenDetail="50"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="28"
    crs:SharpenEdgeMasking="0"
    crs:PostCropVignetteAmount="-11"
    crs:PostCropVignetteMidpoint="20"
@@ -141,12 +141,12 @@
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
-   crs:Exposure2012="+1.00"
-   crs:Contrast2012="+50"
-   crs:Highlights2012="+34"
-   crs:Shadows2012="-57"
-   crs:Whites2012="-57"
-   crs:Blacks2012="+52"
+   crs:Exposure2012="+1.01"
+   crs:Contrast2012="+36"
+   crs:Highlights2012="-11"
+   crs:Shadows2012="-32"
+   crs:Whites2012="-25"
+   crs:Blacks2012="+49"
    crs:Clarity2012="-6"
    crs:DefringePurpleAmount="0"
    crs:DefringePurpleHueLo="30"
@@ -154,6 +154,8 @@
    crs:DefringeGreenAmount="0"
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:ToneMapStrength="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Custom"
@@ -194,6 +196,12 @@
       stEvt:when="2016-11-18T20:45:36+01:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:6ddea946-e092-7e45-9cd9-bcd1e36bcbe8"
+      stEvt:when="2016-11-19T16:13:39+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.1.1 (Windows)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
    <crs:ToneCurve>
@@ -227,9 +235,9 @@
    <crs:ToneCurvePV2012>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>15, 11</rdf:li>
-     <rdf:li>39, 47</rdf:li>
-     <rdf:li>77, 99</rdf:li>
+     <rdf:li>22, 17</rdf:li>
+     <rdf:li>43, 51</rdf:li>
+     <rdf:li>81, 115</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
